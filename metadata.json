@@ -1,0 +1,6 @@
+{
+  "name": "Ultra-Low Latency WebRTC Screen Streamer",
+  "description": "Sub-100ms Full HD peer-to-peer screen streaming with adaptive bitrates, hardware encoding optimization, CPU health monitoring, and instant WebSocket or manual SDP pairing.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
